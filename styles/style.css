@@ -1,0 +1,153 @@
+/*------------
+This is protfoliyo All css cosde
+----------------*/
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+/* -------------
+This is All Header Tag
+----------------------- */
+
+
+
+.header {
+    background-image: url(images/top-banner.png);
+    display: flex;
+    background-repeat: no-repeat;
+}
+
+.header-content {
+    width: 50%;
+    padding: 5%;
+}
+
+.header-pic img {
+    padding-top: 50px;
+    width: 70%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.siam-color {
+    color: orange;
+}
+
+#hire-me {
+    color: azure;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+/*-----------
+End header section
+-----------------------*/
+
+
+
+
+/*-----------
+This is midle section
+-----------------------*/
+
+
+
+
+
+.midle-point {
+    display: flex;
+    background-image: url(../images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+.midle-pic {
+    padding-top: 50px;
+    width: 80%;
+}
+
+#image2 {
+    height: 80%;
+    margin-left: 20px;
+}
+
+.midle-content {
+    width: 50%;
+    margin-top: 100px;
+    padding: 5%;
+}
+
+
+
+.resumie {
+    color: azure;
+    padding: 10px 60px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+
+
+
+
+/*------------
+This is End Section
+--------------------------*/
+
+.exparience {
+    background-image: url(../images/exp-bg.png);
+    background-repeat: no-repeat;
+
+    background-position: left;
+}
+
+.exparience-item {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.exparience-one {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+
+.orange {
+    color: orange;
+}
+
+#full-stace {
+    border-left: 7px solid tomato;
+}
+
+#baby-web {
+    border-left: 7px solid blue;
+}
+
+
+/*-----------------
+This is footer section
+-------------------------*/
+
+footer p {
+    margin: 100px;
+    text-align: center;
+}
+
+
+
+/*--------------
+End This Site
+-----------------*/
